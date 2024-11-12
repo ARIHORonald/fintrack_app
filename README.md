@@ -1,4 +1,4 @@
-# FinTrack - AI-Powered Personal Finance Management for Gen Z
+# FinTrack - AI-Powered Personal Finance Management for Gen Z using PHP and mySQL
 
 ### Developed by: Ariho Ronald
 *Bachelor's of Information Technology, Kabale University*
