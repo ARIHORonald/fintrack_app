@@ -1,6 +1,5 @@
 <?php
 include('../conn/conn.php');
-
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $categoryID = $_POST['tbl_expense_category_id'];
     $expenseName = $_POST['expense_name'];
